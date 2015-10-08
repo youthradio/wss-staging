@@ -1,0 +1,19 @@
+{
+  "name": "jss",
+  "main": "jss.js",
+  "ignore": [
+    "test",
+    "test/*"
+  ],
+  "homepage": "https://github.com/Box9/jss",
+  "_release": "100788934e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "100788934eac65ff3563cb06a7b55c20de7c1186"
+  },
+  "_source": "git://github.com/Box9/jss.git",
+  "_target": "*",
+  "_originalSource": "jss",
+  "_direct": true
+}
